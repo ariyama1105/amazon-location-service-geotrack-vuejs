@@ -72,7 +72,7 @@ export default {
             } else {
               console.log("nothing to show!")
             }
-        }, 15000)       
+        }, 5000)       
     }
     
   },
